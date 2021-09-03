@@ -2,17 +2,27 @@
 awesome automatic sql injection tools pack
 run :
 $ bash psqli.sh
-coise what u want
+
 [+] Auto SQLi Menu
+
 [1]. single site injection
+
 [2]. Mass Xploit sql-injection
+
 [3]. Auto DorKiNg + Auto Xploit
+
 [4]. SQLi Base64 injection
+
 [5]. SQLi Hard /!WaF/ Bruteforce All bypasing method
+
 [6]. Scan site + auto inject ( inject point finder )
+
 [7]. Reverse ip vuln sqli + auto inject
+
 [8]. Query Email Pass dumper + auto filter mail
+
 [9]. Hash tools
+
 [10]. Dork generator
 
 output :
