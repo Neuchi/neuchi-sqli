@@ -9,7 +9,7 @@ $ bash psqli.sh
 
 [2]. Mass Xploit sql-injection
 
-[3]. Auto DorKiNg + Auto Xploit
+[3]. Auto DorkiNg + Auto Xploit
 
 [4]. SQLi Base64 injection
 
