@@ -1,5 +1,5 @@
 SQLiv
-===
+=====
 
 ### Massive SQL injection scanner  
 **Features**  
@@ -16,7 +16,7 @@ SQLiv
 ---
 
 **Installation**  
-1. git clone https://github.com/Hadesy2k/sqlivulscan.git
+1. git clone https://github.com/Neuchi/neuchi-sqli.git
 2. sudo python2 setup.py -i
 
 > Dependencies  
